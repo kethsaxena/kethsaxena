@@ -1,16 +1,11 @@
-## Hi there 👋
+## 🧑‍💻️ About Me  
+ - Praketa S , I don't like LEETCODE , can we please COMMIT some code! 
+## ⚡️🚀  CURRENT PROJECTS
+1.  Project sambhalobhaiya
+2.  Project Bill analyzer
+3.  Project AASAN:Audio Analyzer Sanskrit  
 
-<!--
-**kethsaxena/kethsaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 FUTURE INTERESTS
+1. Grphana Obervability
+2. Postrges vs mySQL
+3. Pandas video learning

@@ -8,4 +8,4 @@
 ## 💡 FUTURE INTERESTS
 1. Grphana Obervability
 2. Postrges vs mySQL
-3. Pandas video learning
+3. The worst websites in the World

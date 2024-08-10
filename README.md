@@ -1,5 +1,5 @@
 ## 🧑‍💻️ About Me  
- - Praketa S , I don't like LEETCODE , can we please COMMIT some code! 
+ - Praketa S lets COMMIT some code! 
 ## ⚡️🚀  CURRENT PROJECTS
 1.  Project sambhalobhaiya
 2.  Project Bill analyzer

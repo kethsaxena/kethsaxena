@@ -5,7 +5,7 @@
 2.  Project sambhalobhaiya
 
 ## 💡 FUTURE INTERESTS
-1. Grphana Obervability
+1. Graphana Obervability
 2. Postrges vs mySQL
 3.  Project sambhalobhaiya
 4.  Project Bill analyzer
